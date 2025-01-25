@@ -20,3 +20,4 @@ inches = height * 12
 print(type(age), type(weight), type(height))
 bmi = weight / (height**2) * 703
 print(bmi)
+print("goodbye")
